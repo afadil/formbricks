@@ -8,6 +8,7 @@ At Formbricks, we consider the security of our systems a top priority. But no ma
 
 If you discover a vulnerability, we would like to know about it so we can take steps to address it as quickly as possible. We would like to ask you to help us better protect our clients and our systems.
 
+
 ## Out of scope vulnerabilities:
 
 - Clickjacking on pages with no sensitive actions.
